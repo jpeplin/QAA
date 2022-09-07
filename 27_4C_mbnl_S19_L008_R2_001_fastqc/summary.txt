@@ -1,0 +1,12 @@
+PASS	Basic Statistics	27_4C_mbnl_S19_L008_R2_001.fastq.gz
+PASS	Per base sequence quality	27_4C_mbnl_S19_L008_R2_001.fastq.gz
+WARN	Per tile sequence quality	27_4C_mbnl_S19_L008_R2_001.fastq.gz
+PASS	Per sequence quality scores	27_4C_mbnl_S19_L008_R2_001.fastq.gz
+WARN	Per base sequence content	27_4C_mbnl_S19_L008_R2_001.fastq.gz
+PASS	Per sequence GC content	27_4C_mbnl_S19_L008_R2_001.fastq.gz
+PASS	Per base N content	27_4C_mbnl_S19_L008_R2_001.fastq.gz
+PASS	Sequence Length Distribution	27_4C_mbnl_S19_L008_R2_001.fastq.gz
+WARN	Sequence Duplication Levels	27_4C_mbnl_S19_L008_R2_001.fastq.gz
+WARN	Overrepresented sequences	27_4C_mbnl_S19_L008_R2_001.fastq.gz
+WARN	Adapter Content	27_4C_mbnl_S19_L008_R2_001.fastq.gz
+FAIL	Kmer Content	27_4C_mbnl_S19_L008_R2_001.fastq.gz
