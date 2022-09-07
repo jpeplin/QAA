@@ -1,0 +1,17 @@
+For 27_4C_mbnl_S19_L008:
+The number of mapped reads 13320040
+The number of unmapped reads 434803
+
+cat 4Coutput.txt | awk '{sum+=$2} END{print sum}'
+6876955
+cat 4C_rev_output.txt | awk '{sum+=$2} END{print sum}'
+6876955
+
+For 28_4D_mbnl_S20_L008:
+The number of mapped reads 22657652
+The number of unmapped reads 795284
+
+cat 4Doutput.txt | awk '{sum+=$2} END{print sum}'
+11725400
+cat 4D_rev_output.txt | awk '{sum+=$2} END{print sum}'
+11725400
